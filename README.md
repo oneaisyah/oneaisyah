@@ -54,4 +54,4 @@ A passionate final-year Computer Science student at Singapore University of Tech
 
 ## 🌍 Let’s Connect!
 - **LinkedIn**: [Wan 'Aisyah](https://linkedin.com/in/wan-aisyah)
-- **Personal Website**: [oneaisyah.com](https://oneaisyah.github.io)
+- **Personal Website**: [oneaisyah.github.io](https://oneaisyah.github.io)
